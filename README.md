@@ -59,3 +59,20 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+## Commands
+
+Start Strapi in watch mode. (Changes in Strapi project files will trigger a server restart)
+npm run develop
+
+Start Strapi without watch mode.
+npm run start
+
+Build Strapi admin panel.
+npm run build
+
+Deploy Strapi project.
+npm run deploy
+
+Display all available commands.
+npm run strapi
